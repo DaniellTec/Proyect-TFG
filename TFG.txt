@@ -1,0 +1,32 @@
+header comisión en grupo, over draw
+icon
+social media
+
+navbar
+
+drawing, commsions, hoodies, 3D design, Fursuit maker, keychains, 3D figures
+photo
+description
+price
+login sign in / password, auth, mongodb
+search
+
+route>artist>product router
+img price add card social media autor, more img, carousel, shopping cart
+recommendations
+
+react typescript mongo db, kubernate/docker
+
+npx create-react-app react-app-learn
+npm installs:
+npm install react-router-dom
+npm install react-icons
+npm install --save styled-components
+npm install --save bootstrap
+rafce > react template
+
+docker
+
+npm run build
+docker build -t {name} . 
+docker run -it 8080:80 {name of conteiner} name of image
